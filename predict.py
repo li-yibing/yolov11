@@ -5,7 +5,7 @@ from ultralytics import YOLO
 model = YOLO("yolo11n.pt")
 
 # Define path to the image file
-source = "images/su7.png"
+source = "./images/su7.png"
 
 # Run inference on the source
 results = model.predict(source, save=True, show=True)

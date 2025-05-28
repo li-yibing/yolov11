@@ -11,7 +11,7 @@ pip install -r requirements.txt
 python predict.py
 ```
 推理结果：
-![su7.jpg](res%2Fsu7.jpg)
+![su7.jpg](res/su7.jpg)
 
 ## 训练模型
 ```shell
