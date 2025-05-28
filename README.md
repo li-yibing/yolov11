@@ -18,13 +18,14 @@ python predict.py
 python train.py
 ```
 训练日志：
+![train.png](res%2Ftrain.png)
 
-
-## 测试模型
+## 验证模型
 ```shell
 python test.py
 ```
-测试日志：
+验证日志：
+![val.png](res%2Fval.png)
 
 
 ## 项目目录简介
