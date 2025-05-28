@@ -1,2 +1,8 @@
 runs/
 .idea/
+
+*.jpg
+*.png
+*.txt
+
+*.cache
