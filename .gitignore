@@ -1,8 +1,8 @@
 runs/
 .idea/
 
-*.jpg
-*.png
-*.txt
+datasets/*.jpg
+datasets/*.png
+datasets/*.txt
 
 *.cache
