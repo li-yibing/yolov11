@@ -5,5 +5,5 @@ val: images/val # val images (relative to 'path') 4 images
 test: images/test # test images (optional)
 
 names:
-    0: duanmian
-    1: changduan
+    0: 缎面绣
+    1: 长短绣
