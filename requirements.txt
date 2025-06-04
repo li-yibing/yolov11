@@ -1,1 +1,6 @@
+# 推荐使用python 3.9.13
+# GPU训练需要先安装cuda11.8 然后运行以下命令安装
+# 按照cuda版本，下载pytorch包并安装，网址：https://download.pytorch.org/whl/torch/
+# pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu118
+
 ultralytics
